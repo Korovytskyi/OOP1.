@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\pr\1.1\1.1\Triangle.h(12,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\pr\1.1\1.1\Source.cpp(24,9): warning C4101: 'y': unreferenced local variable
+E:\pr\1.1\1.1\Source.cpp(24,6): warning C4101: 'x': unreferenced local variable
+  Triangle.cpp
+E:\pr\1.1\1.1\Triangle.h(12,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  1.1.vcxproj -> E:\pr\1.1\Debug\1.1.exe
